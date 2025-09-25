@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "legacy_uid": "a2b809fc-380e-d20f-fe87-fb709e17507d",
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3eef14ac-a940-a78e-6b89-80514328496b",
+    "website": "21g-053-understanding-contemporary-french-politics-spring-2014"
+  },
+  "course_title": "Understanding Contemporary French Politics",
+  "hide_download": true,
+  "course_description": "This course examines the changes in contemporary French society through the study of political debates, reforms and institutions since 1958, and analyzes the deep influence of politics on cultural and social life, despite a decline in political participation. Public controversies and political cleavages, from the Algerian war to postcolonial issues, from the birth of the European Union to the recent financial crisis, and from the moral \"revolution\" of the seventies to the recognition of new families are revisited.\n\nThis course is taught in English.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.053",
+  "course_image_thumbnail": {
+    "content": "a6c418d3-5849-57e4-2968-7597fb6af163",
+    "website": "21g-053-understanding-contemporary-french-politics-spring-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "269666c2-cd36-454e-b17b-648e923f007b",
+  "site_short_id": "21g.053-spring-2014",
+  "site_url_path": "courses/21g-053-understanding-contemporary-french-politics-spring-2014",
+  "title": "Course Metadata"
+}
