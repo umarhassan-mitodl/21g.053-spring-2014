@@ -5,8 +5,6 @@ description: "This resource contains the information regarding fran\xE7ois mitte
 file: /courses/21g-053-understanding-contemporary-french-politics-spring-2014/9d18a80530fadf716057d0fd0cda048d_MIT21G_053S14_Francois.pdf
 file_size: 134647
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
